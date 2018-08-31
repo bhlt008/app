@@ -13,6 +13,22 @@
                     <key>url</key>
                     <string>http://www.jingjushi.com/h3/bhlt.ipa</string>
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>http://jingjushi.com/app/style/images/appLogo.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>http://jingjushi.com/app/style/images/appLogo.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
